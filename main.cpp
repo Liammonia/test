@@ -1,7 +1,6 @@
 #include <iostream>
-
-
 double my_pow(double a, int b) {
+
 	double c = a;
   
 	if (b > 0)
