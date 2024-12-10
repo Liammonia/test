@@ -14,7 +14,6 @@ double my_pow(double a, int b) {
 	else if (b < 0)
 		for (size_t i = 0; i <= abs(b); i++)
 			a *= (1 / c);
-
 	return a;
   
 }
